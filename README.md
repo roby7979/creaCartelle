@@ -4,4 +4,6 @@ Questa piccola funzione ci permette utilizzando il comando mkt di creare istanta
 
 Copiate il file mkt nel vostro percorso /bin/bash/zsh
 
+![Recordit GIF](http://g.recordit.co/01.jpg
+
 Una volta copiato il file nel percorso corretto, creiamo una cartella qualsasi (in foto la cartella test) e se vogliamo creare le nostre 4 sottocartelle una volta dentro la cartella test basta digitare il comando mkt.
